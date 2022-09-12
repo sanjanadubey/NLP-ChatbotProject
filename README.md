@@ -2,6 +2,15 @@
 
 Chatbots are dialog engine systems built using NLP pipelines that are designed to have human-like conversations. Usually, they are developed to successfully carry out redundant and repetitive conversational tasks which don’t require human intervention. However, complex bots nowadays can mimic human characteristics and do complex tasks like interpreting the world for people with compromised vision.
 
+Solution Architecture for DialogFlow :
+
+<img width="228" alt="image" src="https://user-images.githubusercontent.com/37996679/189682639-12e81fa3-47bf-45a6-9642-ea6e6b8119c5.png">
+
+Solution Architecture for SEQ2SEQ Chatbot :
+
+<img width="273" alt="image" src="https://user-images.githubusercontent.com/37996679/189682732-d39bf6df-9d36-4c12-85d0-af0f638968bf.png">
+
+
 DIALOGFLOW vs GENERATIVE CHATBOT :
 
 From the research and analysis, it was found out that software like Dialogflow is more beneficial for beginners or users with no coding experience, as it has a GUI that allows the users to design a chatbot with minimal coding. It provides a low-code environment that gets you started quickly. Generative chatbots, on the other hand, have to be coded entirely and are for experienced users to build intelligent AI chatbots.
